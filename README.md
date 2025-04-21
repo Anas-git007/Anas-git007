@@ -7,7 +7,7 @@
 <a href="https://instagram.com/anasasif456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anasasif456" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/BBqCvnHC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/BBqCvnHC" height="30" width="40" /></a>
 <a href="mailto:2005muhammadanas@gmail.com" target="blank">
-  <img src="https://pngimg.com/image/25901" alt="Gmail Logo" width="40" />
+  <img src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG6.png" alt="Gmail Logo" width="40" />
 </a>
 
 </p>
@@ -15,13 +15,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;&nbsp;      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  &nbsp;&nbsp;     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>&nbsp;&nbsp; <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> &nbsp;&nbsp;       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;&nbsp;       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> &nbsp;&nbsp;    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> &nbsp;&nbsp;      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>        </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anas-git007&show_icons=true&locale=en" alt="anas-git007" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anas-git007&show_icons=true&locale=en&layout=compact" alt="anas-git007" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anas-git007" alt="anas-git007" /></a>
-<p align="left">![](https://github-readme-stats.vercel.app/api?username=Anas-git007&theme=merko&hide_border=false&include_all_commits=true&count_private=true)&nbsp;
+
+![](https://github-readme-stats.vercel.app/api?username=Anas-git007&theme=merko&hide_border=false&include_all_commits=true&count_private=true)&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-git007&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Anas-git007&theme=merko&hide_border=false)
-</p>
+
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
