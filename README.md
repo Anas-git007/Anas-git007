@@ -71,8 +71,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" width="700"/>
 
   <br/><br/>
-
-<img src="https://github.com/Anas-git007/Anas-git007/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
-
 </div>
