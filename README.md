@@ -7,7 +7,7 @@
 <a href="https://instagram.com/anasasif456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anasasif456" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/BBqCvnHC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/BBqCvnHC" height="30" width="40" /></a>
 <a href="mailto:2005muhammadanas@gmail.com" target="blank">
-  <img src="https://pngimg.com/d/gmail_logo_PNG6.png" alt="Gmail Logo" width="40" />
+  <img src="https://pngimg.com/image/25901" alt="Gmail Logo" width="40" />
 </a>
 
 </p>
@@ -17,11 +17,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anas-git007&show_icons=true&locale=en" alt="anas-git007" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anas-git007&show_icons=true&locale=en&layout=compact" alt="anas-git007" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anas-git007" alt="anas-git007" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anas-git007" alt="anas-git007" /></a>
+<p align="left">![](https://github-readme-stats.vercel.app/api?username=Anas-git007&theme=merko&hide_border=false&include_all_commits=true&count_private=true)&nbsp;
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-git007&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Anas-git007&theme=merko&hide_border=false)
+</p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anas-git007&icon=2&color=0)](https://visitcount.itsvg.in)
-
 
