@@ -1,74 +1,147 @@
-<h1 align="center">Hi 👋, I'm Muhammad Anas</h1>
-<h3 align="center">A Curious Data Enthusiast</h3>
+<h1 align="center">⚡ Muhammad Anas ⚡</h1>
+<h3 align="center">Data Enthusiast • AI Explorer • Turning Ideas Into Reality</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-anas-asif007/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
-  </a>
-  <a href="https://instagram.com/anasasif456" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" />
-  </a>
-  <a href="https://discord.gg/BBqCvnHC" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="50" />
-  </a>
-  <a href="mailto:2005muhammadanas@gmail.com" target="blank">
-    <img align="center" src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG6.png" alt="Gmail" height="40" width="50" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Data+Science+Enthusiast;Building+Creative+Tech+Projects;Automation+%7C+Analytics+%7C+Innovation" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Programming/Data tools -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
+---
 
-  <!-- Design/Editing tools -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-</p>
+# 🚀 About Me
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 CS Student exploring the world of **AI, Data Science & Automation**
+- 🛠️ Building projects that combine **logic, creativity, and real-world impact**
+- 📊 Interested in **Machine Learning, SQL, Computer Vision & Analytics**
+- 🌍 Erasmus Student constantly learning from new experiences
+- ⚡ I enjoy transforming random ideas into working applications
 
 <br/>
 
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-anas-asif007/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+  </a>
+  &nbsp;&nbsp;
+  
+  <a href="https://instagram.com/anasasif456" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="mailto:2005muhammadanas@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://discord.gg/BBqCvnHC" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="55"/>
+  </a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
 <div align="center">
 
-<p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=Anas-git007&theme=merko&hide_border=false&include_all_commits=true&count_private=true" height="200"/> &nbsp;&nbsp;
+### 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=python,c,mysql,sqlite" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-git007&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200"/>
-</p>
-  <br/>
+<br/><br/>
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Anas-git007&theme=merko&hide_border=false" height="200"/>
+### 📚 Libraries & Frameworks
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,sklearn" />
 
-  <br/><br/>
+<br/><br/>
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" width="700"/>
+### 🎨 Creative Tools
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 
-  <br/><br/>
 </div>
+
+---
+
+# 🔥 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 QueueLess
+AI-powered queue management system designed to reduce physical waiting lines and improve efficiency.
+
+</td>
+
+<td width="50%">
+
+### 🎮 Wordly
+A fun Wordle-inspired word game with sound effects, animations, and interactive gameplay.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏏 Cricket Video Analysis
+Using Python & OpenCV to analyze ball speed, bowler metrics, and batting angles.
+
+</td>
+
+<td width="50%">
+
+### 💸 Smart Bill Splitter
+A smart expense-sharing app with reminders, database integration, and automation features.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anas-git007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-git007&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Anas-git007&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🧠 Currently Exploring
+
+<div align="center">
+
+| Focus Area | What I'm Exploring |
+|---|---|
+| 🤖 AI | Real-world AI applications |
+| 📊 Data Science | Analytics & Visualization |
+| ⚙️ Automation | APIs & Smart Systems |
+| 👁️ Computer Vision | OpenCV Projects |
+| 🌐 Tech Creativity | Building unique solutions |
+
+</div>
+
+---
+
+# ⚡ Developer Mindset
+
+```python
+while(alive):
+    learn()
+    build()
+    improve()
+    repeat()
