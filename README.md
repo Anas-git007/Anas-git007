@@ -56,12 +56,18 @@
 <br/><br/>
 
 ### 📚 Libraries & Frameworks
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy, pandas, Matplotlib, Seaborn, Scikit-learn" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,scikit-learn" />
 
 <br/><br/>
 
 ### 🎨 Creative Tools
 <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+
+<br/><br/> 
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" width="700"/>
+
+<br/><br/>
 
 </div>
 
