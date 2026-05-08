@@ -51,12 +51,12 @@
 <div align="center">
 
 ### 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=python,c,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=python,c,mysql,java" />
 
 <br/><br/>
 
 ### 📚 Libraries & Frameworks
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,sklearn" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy, pandas, Matplotlib, Seaborn, Scikit-learn" />
 
 <br/><br/>
 
@@ -65,83 +65,3 @@
 
 </div>
 
----
-
-# 🔥 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 QueueLess
-AI-powered queue management system designed to reduce physical waiting lines and improve efficiency.
-
-</td>
-
-<td width="50%">
-
-### 🎮 Wordly
-A fun Wordle-inspired word game with sound effects, animations, and interactive gameplay.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏏 Cricket Video Analysis
-Using Python & OpenCV to analyze ball speed, bowler metrics, and batting angles.
-
-</td>
-
-<td width="50%">
-
-### 💸 Smart Bill Splitter
-A smart expense-sharing app with reminders, database integration, and automation features.
-
-</td>
-</tr>
-</table>
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anas-git007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-git007&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Anas-git007&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🧠 Currently Exploring
-
-<div align="center">
-
-| Focus Area | What I'm Exploring |
-|---|---|
-| 🤖 AI | Real-world AI applications |
-| 📊 Data Science | Analytics & Visualization |
-| ⚙️ Automation | APIs & Smart Systems |
-| 👁️ Computer Vision | OpenCV Projects |
-| 🌐 Tech Creativity | Building unique solutions |
-
-</div>
-
----
-
-# ⚡ Developer Mindset
-
-```python
-while(alive):
-    learn()
-    build()
-    improve()
-    repeat()
