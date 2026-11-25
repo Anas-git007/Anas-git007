@@ -1,79 +1,49 @@
-<h1 align="center">Muhammad Anas</h1>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=190&section=header&text=Muhammad%20Anas&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Applied%20AI%20%E2%80%A2%20Data%20Analysis%20%E2%80%A2%20Computer%20Vision&descAlignY=58&descSize=18" alt="Muhammad Anas — Applied AI, data analysis, computer vision" />
 
-<p align="center">
-  <strong>Applied AI · Data analysis · Computer vision</strong><br/>
-  I turn messy information into useful tools—and experiments into clear evidence.
-</p>
+  <br/>
 
-<p align="center">
-  BSc Computer Science (Data Analysis) · University of Messina, Italy · Erasmus student
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1300&color=F8FAFC&center=true&vCenter=true&width=760&height=55&background=1E1B4B&border=06B6D4&lines=Start+curious.+Stay+measurable.;Look+for+the+signal.+Check+the+limits.;Turn+data+into+tools+people+can+use." alt="Rotating work principles" />
 
-<p align="center">
-  <a href="mailto:2005muhammadanas@gmail.com">Let’s talk</a> ·
-  <a href="https://www.linkedin.com/in/muhammad-anas-asif007/">LinkedIn</a> ·
-  <a href="https://github.com/Anas-git007">Repositories</a>
-</p>
+  <br/>
+
+  <a href="mailto:2005muhammadanas@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Get%20in%20touch-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-anas-asif007/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Anas-git007"><img src="https://img.shields.io/badge/GITHUB-Explore%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
+</div>
 
 ---
 
-## A quick read
+<div align="center">
+  <h2>🌍 My path so far</h2>
+  <table>
+    <tr>
+      <td align="center" width="25%"><strong>🌿 NOW · CYPRUS</strong><br/><br/>Herbs Are My World<br/><sub>Erasmus+ Traineeship</sub></td>
+      <td align="center" width="25%"><strong>💼 PRAGUE</strong><br/><br/>GiftsServices<br/><sub>Erasmus+ Traineeship</sub></td>
+      <td align="center" width="25%"><strong>🎓 SLOVENIA</strong><br/><br/>University of Primorska<br/><sub>Erasmus student</sub></td>
+      <td align="center" width="25%"><strong>📊 ITALY</strong><br/><br/>University of Messina<br/><sub>BSc Computer Science · Data Analysis</sub></td>
+    </tr>
+  </table>
+</div>
 
-| I build | I investigate | I care about |
-|:--|:--|:--|
-| AI workflows that connect real data sources to practical tools | How models and algorithms behave under changing conditions | Results that are useful, explainable, and honest about their limits |
+<div align="center">
+  <h2>🧠 How I think</h2>
+  <p><strong>Question&nbsp;&nbsp;→&nbsp;&nbsp;Test&nbsp;&nbsp;→&nbsp;&nbsp;Learn&nbsp;&nbsp;→&nbsp;&nbsp;Build</strong></p>
+  <p><em>Curious enough to explore. Careful enough to measure. Practical enough to ship.</em></p>
+</div>
 
-My work has included an AI automation internship, research-style machine learning experiments, and computer vision. The common thread: take a real question, make it testable, and communicate what the evidence says.
+<div align="center">
+  <h2>🛠️ Tools in my kit</h2>
+  <img src="https://skillicons.dev/icons?i=python,java,c,git,flask,sqlite&theme=dark" alt="Python, Java, C, Git, Flask, SQLite" />
+  <br/>
+  <sub>Data analysis · Machine learning · Computer vision · AI automation</sub>
+</div>
 
-<details>
-<summary><strong>The questions I like chasing</strong></summary>
-
-- Can movement data reveal patterns that are hard to see by eye?
-- How does an agent learn when the environment is uncertain?
-- Where can AI make a business workflow more useful without making it harder to trust?
-
-</details>
-
-<details>
-<summary><strong>How I work</strong></summary>
-
-**Question → baseline → experiment → explain**
-
-I like defining a clear question, comparing approaches under the same conditions, and checking where the results stop being reliable. I aim to leave behind work that someone else can inspect, reproduce, and build on.
-
-</details>
-
-<details>
-<summary><strong>Experience & context</strong></summary>
-
-- **AI Automation Intern** — built a content intelligence platform that brings business data, search, and generative AI into one workflow.
-- **Erasmus student** at the University of Messina — studying and collaborating across countries and perspectives.
-
-</details>
-
-<details>
-<summary><strong>Tools I reach for</strong></summary>
-
-**Languages** · Python, Java, C, SQL  
-**Data & machine learning** · NumPy, Pandas, scikit-learn, Matplotlib, Seaborn  
-**Computer vision & apps** · OpenCV, MediaPipe, Flask, SQLite, JavaFX  
-**Workflow** · Git, REST APIs
-
-</details>
-
-## What I’m looking for
-
-Internships, early-career roles, and research collaborations in **applied AI, data analysis, or software**. If you’re working on a problem where careful experiments need to become something people can use, I’d be glad to connect.
-
-<p align="center">
-  <a href="mailto:2005muhammadanas@gmail.com"><strong>Email me</strong></a> ·
-  <a href="https://www.linkedin.com/in/muhammad-anas-asif007/"><strong>Connect on LinkedIn</strong></a>
-</p>
-
-## A little GitHub motion
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anas-git007/Anas-git007/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anas-git007/Anas-git007/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated snake following my GitHub contribution graph" src="https://raw.githubusercontent.com/Anas-git007/Anas-git007/output/github-contribution-grid-snake.svg" />
-</picture>
+<div align="center">
+  <h2>🐍 A little motion</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anas-git007/Anas-git007/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anas-git007/Anas-git007/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated snake following my GitHub contribution graph" src="https://raw.githubusercontent.com/Anas-git007/Anas-git007/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
