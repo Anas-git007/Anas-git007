@@ -1,57 +1,76 @@
 <h1 align="center">Muhammad Anas</h1>
+
 <p align="center">
-  <strong>Computer Science (Data Analysis) student · AI, machine learning & computer vision</strong><br/>
-  University of Messina, Italy
+  <strong>Applied AI · Data analysis · Computer vision</strong><br/>
+  I turn messy information into useful tools—and experiments into clear evidence.
 </p>
 
 <p align="center">
+  BSc Computer Science (Data Analysis) · University of Messina, Italy · Erasmus student
+</p>
+
+<p align="center">
+  <a href="mailto:2005muhammadanas@gmail.com">Let’s talk</a> ·
   <a href="https://www.linkedin.com/in/muhammad-anas-asif007/">LinkedIn</a> ·
-  <a href="mailto:2005muhammadanas@gmail.com">Email</a> ·
-  <a href="https://github.com/Anas-git007">GitHub</a>
+  <a href="https://github.com/Anas-git007">Repositories</a>
 </p>
 
-## About
+---
 
-I’m a Bachelor of Computer Science (Data Analysis) student at the University of Messina and an Erasmus student interested in building practical, well-explained software. My work spans machine learning experiments, computer vision, reinforcement learning, and AI automation.
+## A quick read
 
-During an AI Automation internship, I built a content intelligence platform that combines retrieval, business data sources, and generative AI. I also enjoy research-style projects where I can define a question, run controlled experiments, and communicate what the results do and do not show.
+| I build | I investigate | I care about |
+|:--|:--|:--|
+| AI workflows that connect real data sources to practical tools | How models and algorithms behave under changing conditions | Results that are useful, explainable, and honest about their limits |
 
-**Current interests:** machine learning, computer vision, reinforcement learning, data analysis, and reliable AI applications.
+My work has included an AI automation internship, research-style machine learning experiments, and computer vision. The common thread: take a real question, make it testable, and communicate what the evidence says.
 
-## Selected projects
+<details>
+<summary><strong>The questions I like chasing</strong></summary>
 
-### [AI Website Intelligence & Content Optimizer](https://github.com/Anas-git007/ai-website-intelligence-platform)
-Built during an AI Automation internship. A Python platform that ingests WordPress, PrestaShop, storefront, and Gmail content; indexes it with SQLite FTS5/BM25; and uses Claude or Gemini to draft structured website content and recommendations.
+- Can movement data reveal patterns that are hard to see by eye?
+- How does an agent learn when the environment is uncertain?
+- Where can AI make a business workflow more useful without making it harder to trust?
 
-**Python · Flask · SQLite FTS5 · RAG · Claude/Gemini · REST APIs**
+</details>
 
-### [Cricket Bowling Kinematics Analyzer](https://github.com/Anas-git007/Computer_Vision_Bowling_Analysis)
-A computer vision project that tracks pose landmarks in bowling videos and analyzes joint angles, delivery phases, and movement consistency. It focuses on observable kinematics rather than claiming uncalibrated speed or force estimates.
+<details>
+<summary><strong>How I work</strong></summary>
 
-**Python · OpenCV · MediaPipe · NumPy · Pandas**
+**Question → baseline → experiment → explain**
 
-### [Reinforcement Learning Gridworld](https://github.com/Anas-git007/RL_Gridworld)
-Compared tabular Q-learning with ε-greedy exploration and a Softmax policy in a stochastic gridworld, including experiments on noise, convergence, and exploration–exploitation behavior.
+I like defining a clear question, comparing approaches under the same conditions, and checking where the results stop being reliable. I aim to leave behind work that someone else can inspect, reproduce, and build on.
 
-**Python · NumPy · Reinforcement Learning · Experimental Analysis**
+</details>
 
-### [Regularization Analysis](https://github.com/Anas-git007/Regularization_Analysis)
-An empirical study of Lasso and Ridge regression covering feature sparsity, bootstrap stability, cross-validation, and correlated features.
+<details>
+<summary><strong>Experience & context</strong></summary>
 
-**Python · scikit-learn · Statistical Learning · Data Visualization**
+- **AI Automation Intern** — built a content intelligence platform that brings business data, search, and generative AI into one workflow.
+- **Erasmus student** at the University of Messina — studying and collaborating across countries and perspectives.
 
-## Skills
+</details>
 
-**Languages:** Python, Java, C, SQL  
-**Data & ML:** NumPy, Pandas, scikit-learn, Matplotlib, Seaborn, MediaPipe  
-**Tools & application development:** Git, Flask, SQLite, REST APIs, JavaFX
+<details>
+<summary><strong>Tools I reach for</strong></summary>
 
-## Education
+**Languages** · Python, Java, C, SQL  
+**Data & machine learning** · NumPy, Pandas, scikit-learn, Matplotlib, Seaborn  
+**Computer vision & apps** · OpenCV, MediaPipe, Flask, SQLite, JavaFX  
+**Workflow** · Git, REST APIs
 
-**Bachelor of Computer Science (Data Analysis)** — University of Messina (UNIME), Italy  
-Erasmus student
+</details>
 
-## GitHub activity
+## What I’m looking for
+
+Internships, early-career roles, and research collaborations in **applied AI, data analysis, or software**. If you’re working on a problem where careful experiments need to become something people can use, I’d be glad to connect.
+
+<p align="center">
+  <a href="mailto:2005muhammadanas@gmail.com"><strong>Email me</strong></a> ·
+  <a href="https://www.linkedin.com/in/muhammad-anas-asif007/"><strong>Connect on LinkedIn</strong></a>
+</p>
+
+## A little GitHub motion
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anas-git007/Anas-git007/output/github-contribution-grid-snake-dark.svg" />
